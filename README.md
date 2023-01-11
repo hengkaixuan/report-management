@@ -1,4 +1,4 @@
-# Practicum Report Management System
+# Practicum Report Management System (PRMS)
 
 This subsystem aims to facilitate the report management process for the programme manager, lecturers and postgraduate students. It consists of three modules as shown below:
 
