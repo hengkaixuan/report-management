@@ -1,9 +1,9 @@
 # Practicum Report Management System
+This subsystem aims to facilitate the report management process for the programme manager, lecturers and postgraduate students.
+It consists of three modules:
+### Report Repository
+* Search and filter reports
 
+### Report Submission & Versioning
 
-Modules:  
-(1) Report Repository
-
-(2) Report Submission & Versioning
-
-(3) Dashboard
+### Dashboard
